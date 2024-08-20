@@ -1,5 +1,6 @@
 # DeepLearning-ESW-workshop-2024
 this mini-course was taught by me in summer 2024
+
 the slides are adapted from the follwoing courses in deeplearning
 
 1. Waterlo University deep learning taught by Ali Ghodsi
